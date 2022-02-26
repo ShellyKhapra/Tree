@@ -1,2 +1,2 @@
-# Tree
-Tree - DSA
+# Trees
+Trees - DSA
